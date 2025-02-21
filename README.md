@@ -14,13 +14,13 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🔭 **Current Project:** Developing an **Automated Traffic Surveillance & Accident Detection System**  
+        <li><strong>🔭 Current Project:</strong> Developing an **Automated Traffic Surveillance & Accident Detection System**  
           - Uses **R-CNN/YOLO** to detect accidents in real-time via cloud-based security camera analysis.  
           - Triggers **automated emergency alerts** to improve traffic safety and response efficiency.  
         </li>
-        <li>🌱 **Learning:** Deep Learning, Cloud Computing, and Advanced System Design.</li>
-        <li>💡 **Interests:** AI, Machine Learning, Cybersecurity, and Intelligent Systems.</li>
-        <li>⚡ **Fun Fact:** Laughter releases endorphins, reducing stress and boosting your mood! 😊</li>
+        <li><strong>🌱 Learning:</strong> Deep Learning, Cloud Computing, and Advanced System Design.</li>
+        <li><strong>💡 Interests:</strong> AI, Machine Learning, Cybersecurity, and Intelligent Systems.</li>
+        <li><strong>⚡ Fun Fact:</strong> Laughter releases endorphins, reducing stress and boosting your mood! 😊</li>
       </ul>
     </td>
     <td width="40%">
@@ -29,6 +29,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
