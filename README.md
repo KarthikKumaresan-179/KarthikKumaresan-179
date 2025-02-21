@@ -9,21 +9,42 @@
 
 ---
 
-### 🚀 About Me:
-- 🔭 **Current Project:** Developing an **Automated Traffic Surveillance & Accident Detection System**  
-  - Uses **R-CNN/YOLO** to detect accidents in real-time via cloud-based security camera analysis.
-  - Triggers **automated emergency alerts** to improve traffic safety and response efficiency.  
-- 🌱 **Learning:** Deep Learning, Cloud Computing, and Advanced System Design.  
-- 💡 **Interests:** AI, Machine Learning, Cybersecurity, and Intelligent Systems.  
-- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/karthik-k-a37478314)  
-- ⚡ **Fun Fact:** Laughter releases endorphins, reducing stress and boosting your mood! 😊  
+## 🚀 About Me  
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 **Current Project:** Developing an **Automated Traffic Surveillance & Accident Detection System**  
+          - Uses **R-CNN/YOLO** to detect accidents in real-time via cloud-based security camera analysis.  
+          - Triggers **automated emergency alerts** to improve traffic safety and response efficiency.  
+        </li>
+        <li>🌱 **Learning:** Deep Learning, Cloud Computing, and Advanced System Design.</li>
+        <li>💡 **Interests:** AI, Machine Learning, Cybersecurity, and Intelligent Systems.</li>
+        <li>⚡ **Fun Fact:** Laughter releases endorphins, reducing stress and boosting your mood! 😊</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
+           alt="GIF" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack:
+## 🏅 Certifications  
+- **Xebia IT Architect Intern Certificate**  
+- **Google Cloud Skill Badges**  
+- **Generative AI Applications Using Vertex AI**  
+- **Amazon Web Services Course Completion**  
+
+---
+
+## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -33,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karthikkumaresan-179&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
@@ -44,9 +65,7 @@
 
 ---
 
-### 📬 Connect with Me:
+## 📬 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/karthik-k-a37478314" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </p>
