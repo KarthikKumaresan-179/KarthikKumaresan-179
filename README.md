@@ -66,7 +66,10 @@
 
 ---
 
-## 📬 Connect with Me  
+## 📬 **Connect with Me**  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/karthik-k-a37478314/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+
 </p>
