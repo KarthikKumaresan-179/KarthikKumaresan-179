@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Karthik K</h1>
-<h3 align="center">A passionate Computer Science Engineering student skilled in AI, ML, Full-Stack Development, and System Design. I love tackling real-world challenges and building AI-driven solutions that optimize efficiency and scalability.</h3>
+<h3 align="center">A passionate Computer Science Engineering student skilled in AI, ML and Full-Stack Development. I love tackling real-world challenges and building AI-driven solutions that optimize efficiency and scalability.</h3>
 
 ---
 
